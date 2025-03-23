@@ -7,3 +7,4 @@ class UsingParameter()(using runtime: String) {
 given defaultRuntime: String = "MacOS"
 
 val test = UsingParameter().log()
+  
