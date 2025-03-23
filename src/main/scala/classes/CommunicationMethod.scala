@@ -1,5 +1,5 @@
 package classes
 
-abstract class Animal {
+abstract class CommunicationMethod {
   def communicate() : String
 }
